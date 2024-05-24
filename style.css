@@ -1,0 +1,69 @@
+/* UNIVERSAL SELECTOR */
+*{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+/* TEGNAME */
+li{
+    color: blue;
+}
+#bir{
+    color: gold;
+}
+#ikki{
+    color: green;
+}
+#uch{
+    color: aqua;
+}
+#turt{
+    color: darkblue;
+}
+#besh{
+    color: crimson;
+}
+#olti{
+    color: darkgreen;
+}
+#yetti{
+    color: deeppink;
+}
+
+button{
+    background-color: gold;
+    color: #fff;
+    border-radius: 60px;
+    border: none;
+    padding: 8px 15px;
+
+}
+.btn-secondary{
+    color: blueviolet;
+    border: 1px solid blueviolet;
+    background-color: #fff;
+}
+
+
+li{
+    list-style-type: none;
+}
+
+/* CLASSIFICATORS */
+
+
+.form-items{
+    padding: 8px 15px;
+    border-radius: 35px;
+    border: 1px solid blue;
+}
+
+/* IDENTIFIKATOR */
+
+#one{
+    color: yellow;
+}
+
+/*  lsakndlkfnflksfnsdlkf
+
+sdfsdf
+sdfsdfs*/
+
